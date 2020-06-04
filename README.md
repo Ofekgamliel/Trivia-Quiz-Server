@@ -15,9 +15,14 @@ The project consists of three parts:
    - Refer to : https://github.com/Ofekgamliel/Trivia-Quiz-Android-client.git
 
 ---
+<p float="left">
+  <img src="/server_tcp.png" width="300" />
+  <img src="/server_socket.png" width="300" /> 
+  <img src="/DB.PNG" width="300" />
+</p>
+
+
 ## How To Use
+[![Alt text](https://i9.ytimg.com/vi/op7iMwDxolc/mq2.jpg?sqp=CKCi5PYF&rs=AOn4CLD9ceW4xtIejJCM3CKruT5lp3r_xA)](https://youtu.be/op7iMwDxolc)
 
-[<img src="https://img.youtube.com/vi/<VIDEO ID>/maxresdefault.jpg" width="50%">](https://youtu.be/op7iMwDxolc)
-
-![vid3](https://user-images.githubusercontent.com/48961597/83747088-c929f080-a668-11ea-9cfb-f14b364d88d9.gif)
 ---
