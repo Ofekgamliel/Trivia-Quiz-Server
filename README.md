@@ -17,7 +17,7 @@ The project consists of three parts:
 ---
 ## How To Use
 
-
+[<img src="https://img.youtube.com/vi/<VIDEO ID>/maxresdefault.jpg" width="50%">](https://youtu.be/op7iMwDxolc)
 
 ![vid3](https://user-images.githubusercontent.com/48961597/83747088-c929f080-a668-11ea-9cfb-f14b364d88d9.gif)
 ---
